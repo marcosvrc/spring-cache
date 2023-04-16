@@ -37,5 +37,3 @@ get products::1
 
 [Youtube - # Aprenda a usar cache nos seus projetos Spring Boot! ](https://www.youtube.com/watch?v=YcI9b-lgi7w&t=120s)
 
-
-```
